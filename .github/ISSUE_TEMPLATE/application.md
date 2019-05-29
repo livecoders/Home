@@ -7,14 +7,16 @@ assignees: csharpfritz
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+Please make sure that 'Store Past Broadcasts' is enabled on your channel so that we can review examples of your coding stream.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**What is the URL for your Twitch channel?**
+https://twitch.tv/MY_CHANNEL
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**What languages / frameworks / tools do you program in while streaming on Twitch?**
+List briefly here
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Why do you write code on stream?**
+briefly describe
+
+**What is your favorite moment from coding on stream?  Share a clip if one is available**
+briefly describe
