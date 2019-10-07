@@ -1,6 +1,6 @@
 # Live Coding on Twitch
 
-On the Live Video platform, Twitch, we are a group of broadcasters who write code and make things while teaching viewers.  We believe that live video is an amazing opportunity to teach, and want to share our expertise.  You can find the team's home page on Twitch at:  https://twitch.tv/team/livecoders
+On the Live Video platform, Twitch, we are a group of broadcasters who write code and make things while teaching viewers.  We believe that live video is an amazing opportunity to teach, and want to share our expertise.  You can find the team's home page on Twitch at: https://twitch.tv/team/livecoders
 
 ## Qualifications
 
@@ -13,6 +13,10 @@ We want to ensure that broadcasters on the team are makers who have made a commi
   1. Regularly write code or make hardware with technology.  Other content is cool
 
 Live coder team members will review and ensure that prospective channels meet these requirements before admitting new members to the team.
+
+## More Info
+
+More details about The Live Coders can be found in [the wiki](https://github.com/livecoders/Home/wiki).
 
 ## Members
 | |Name|Status|Language|Family Friendly| 
