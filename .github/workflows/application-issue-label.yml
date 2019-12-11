@@ -9,6 +9,6 @@ jobs:
     steps:
     - name: The main step
       id: main
-      uses: LuckyNoS7evin/issues-twitch-url-checker@master
+      uses: livecoders/issues-twitch-url-checker@master
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
