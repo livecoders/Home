@@ -1,0 +1,14 @@
+on: 
+  issues:
+    types: [opened, edited]
+
+jobs:
+  twitch_url_check:
+    runs-on: ubuntu-latest
+    name: A job to label affiliates or partners
+    steps:
+    - name: The main step
+      id: main
+      uses: LuckyNoS7evin/issues-twitch-url-checker@master
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
