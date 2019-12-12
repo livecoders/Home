@@ -20,3 +20,6 @@ briefly describe
 
 **What is your favorite moment from coding on stream?  Share a clip if one is available**
 briefly describe
+
+
+If you have any questions about this process, please contact [_KittyKerns on Twitter](https://twitter.com/_kittykerns)
