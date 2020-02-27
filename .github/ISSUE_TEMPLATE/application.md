@@ -8,6 +8,7 @@ assignees: csharpfritz
 ---
 
 Please make sure that 'Store Past Broadcasts' is enabled on your channel so that we can review examples of your coding stream.
+Also ensure that your vods are not sub only.
 
 **What is the URL for your Twitch channel?**
 https://twitch.tv/MY_CHANNEL
@@ -22,4 +23,4 @@ briefly describe
 briefly describe
 
 
-If you have any questions about this process, please contact [_KittyKerns on Twitter](https://twitter.com/_kittykerns)
+If you have any questions about this process, please contact [_LilyHazel on Twitter](https://twitter.com/captcalli)
