@@ -12,3 +12,5 @@ jobs:
       uses: livecoders/issues-twitch-url-checker@master
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
+    - name: Install dependencies
+      run: npm install
