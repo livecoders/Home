@@ -23,4 +23,4 @@ briefly describe
 briefly describe
 
 
-If you have any questions about this process, please contact [_LilyHazel on Twitter](https://twitter.com/captcalli)
+If you have any questions about this process, please email our Community Manager LilyHazel: lily@livecoders.dev 
