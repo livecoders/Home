@@ -10,7 +10,7 @@ We want to ensure that broadcasters on the team are makers who have made a commi
   1. Twitch Affiliate or Partner status
   1. Minimum of 5 average viewers over the last 30 days
   1. During broadcasts, politely answer questions from viewers
-  1. Promote a positive, inclusive, and welcoming chat room (we discourage Blue Comedy/Ribaldry)
+  1. Promote a positive, inclusive, and welcoming chat room (we discourage excessive Blue Comedy/Ribaldry)
   1. Regularly write code or make hardware with technology.  Other content is cool
   1. Are a person, not a brand or company account
 
