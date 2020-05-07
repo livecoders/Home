@@ -7,11 +7,11 @@ jobs:
     runs-on: ubuntu-latest
     name: A job to label affiliates or partners
     steps:
+    - name: Install dependencies
+      run: npm install
     - name: The main step
       id: main
       uses: livecoders/issues-twitch-url-checker@master
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
         twitch-api-secret: "${{ secrets.TWITCH_API_SECRET }}"
-    - name: Install dependencies
-      run: npm install
