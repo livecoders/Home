@@ -13,6 +13,9 @@ Also ensure that your vods are not sub only.
 **What is the URL for your Twitch channel?**
 https://twitch.tv/MY_CHANNEL
 
+**Are you a Twitch affiliate or partner?** (Your application will be automatically rejected if the answer is no)
+
+
 **What languages / frameworks / tools do you program in while streaming on Twitch?**
 List briefly here
 
