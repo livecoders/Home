@@ -22,5 +22,10 @@ briefly describe
 **What is your favorite moment from coding on stream?  Share a clip if one is available**
 briefly describe
 
+**What do you want to accomplish with the Live Coders?**
+briefly describe
 
-If you have any questions about this process, please email our Community Manager LilyHazel: lily@livecoders.dev 
+**What do you want the Live Coders team to help you with?**
+briefly describe
+
+If you have any questions about this process, please email: info@livecoders.dev 
