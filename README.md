@@ -14,7 +14,7 @@ We want to ensure that broadcasters on the team are makers who have made a commi
   1. Regularly write code or make hardware with technology. Other content is cool.
   1. Are a person, not a brand or company account.
 
-Live coder team members will review and ensure that prospective channels meet these requirements before admitting new members to the team.
+Live coder team members will review and ensure that prospective channels meet these requirements before admitting new members to the team.  Reviews are conducted at the end of each month.  Please don't be discouraged if it takes some time for feedback.
 
 ## More Info
 
