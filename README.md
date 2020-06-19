@@ -2,6 +2,13 @@
 
 On the Live Video platform, Twitch, we are a group of broadcasters who write code and make things while teaching viewers.  We believe that live video is an amazing opportunity to teach, and want to share our expertise.  You can find the team's home page on Twitch at: https://twitch.tv/team/livecoders
 
+## Applications
+Applications are currently not under review and will be back again in July.
+
+Please bear with us at this time, the team are concentrating on The Live Coders Conference, Saturday 20th June. (yes this is a cheeky shoutout)
+
+Thanks for your patience
+
 ## Qualifications
 
 We want to ensure that broadcasters on the team are makers who have made a commitment to broadcast on the Twitch platform with a positive and welcoming atmosphere.  Members and prospective members:
