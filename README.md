@@ -3,7 +3,7 @@
 On the Live Video platform, Twitch, we are a group of broadcasters who write code and make things while teaching viewers.  We believe that live video is an amazing opportunity to teach, and want to share our expertise.  You can find the team's home page at: https://livecoders.dev however, you can go directly to the Team directory on Twitch at: https://twitch.tv/team/livecoders
 
 ## Applications
-Applications are currently not under review and will be back again in July.
+Applications are currently not under review and will be back again in late November.
 
 Please bear with us at this time, the team are concentrating on The Live Coders Conference, Saturday 20th June. (yes this is a cheeky shoutout)
 
